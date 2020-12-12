@@ -1,0 +1,13 @@
+table {
+    width: 50%;
+    border: 2px solid rgb(41,136,180);
+}
+th,td {
+    padding: 15px;
+    border: 1px solid  black; /* agreagr un  borde solido de color negro*/
+    text-align: center; /*central  texto*/
+}
+thead{
+    background-color: coral;
+    color: white;
+}
